@@ -1,1 +1,1 @@
-# HACKER_RANK
+Exersises from hackerrank.com 
